@@ -1,0 +1,34 @@
+.backAzul{
+    background-color: #05318d;
+}
+
+.letraAzul{
+    color:  #05318d;
+}
+
+.backBlanco{
+    background-color: white;
+}
+
+.padding-0{
+    padding: 0px;
+}
+
+.padding-top-5{
+    padding-top: 5rem;
+}
+.circulo{
+    border-radius: 100%;
+}
+
+.texto{
+    font-size:1.1rem;
+}
+
+.texto2{
+    font-size:2rem;
+}
+
+.textbtn{
+    font-size: 1.5rem;
+}
